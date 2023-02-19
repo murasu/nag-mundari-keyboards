@@ -6,6 +6,8 @@ Keyboard layout files for the Nag Mundari script. This script was added to the U
 
 ## macOS
 
+![alt text](https://github.com/[murasu]/[nag-mundari-keyboards]/blob/[main]/macos.png?raw=true)
+
 The keyboard layout was tested to work well on macOS Monterey 12.6.x. It should work on Catalina and Bug Sur as well but it has not been tested. Installing the keyboard on macOS machines is straight forward.
 
 1. Copy the NagMundari.keylayout file to ~/Library/Keyboard Layouts directory or /Library/Keyboard Layouts directory if it's for all users.
