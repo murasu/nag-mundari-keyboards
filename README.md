@@ -11,7 +11,7 @@ The keyboard layout, created in [Ukelele](https://software.sil.org/ukelele/), wa
 
 1. Copy the NagMundari.keylayout file to ~/Library/Keyboard Layouts directory or /Library/Keyboard Layouts directory if it's for all users.
 2. Logout and login again
-3. Add the new keyboard via System Preferences/Keyboard/Input Sources. Since Nag Mundari is not officially added, look for it in "Others" in the language list.
+3. Add the new keyboard via System Preferences/Keyboard/Input Sources. Nag Mundari will not be in the language list. Look for it in "Others".
 
 ## Windows
 
