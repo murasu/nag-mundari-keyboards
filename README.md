@@ -21,3 +21,5 @@ The keyboard layout, created in [Ukelele](https://software.sil.org/ukelele/), wa
 4. Since MKLC does not include Nag Mundari as a supported script or language, I picked Oriya. 
 5. While the keyboard can be used across all applications, Notepad, Wordpad and Word does not handle text in this script very well. I used [BablePad](https://www.babelstone.co.uk/Software/BabelPad.html) to test. This works well in Windows 10 and Windows 11.
 
+![BablePad](https://raw.githubusercontent.com/murasu/nag-mundari-keyboards/main/images/bablepad.png)
+
