@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2023-02-19 at 12:02 (MYT)-->
 <!--Created by Muthu Nedumaran&#x000A;2023-02-19&#x000A;@ 2023 Muthu Nedumaran-->
-<!--Last edited by Ukelele version 359 on 2023-02-19 at 13:04 (MYT)-->
+<!--Last edited by Ukelele version 359 on 2023-02-19 at 13:19 (MYT)-->
 <keyboard group="126" id="-12685" name="Nag Mundari MN" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -38,9 +38,9 @@
             <key code="0" output="𞓕"/>
             <key code="1" output="𞓛"/>
             <key code="2" output="𞓜"/>
-            <key code="3" output="𞓦"/>
-            <key code="4" output="𞓖"/>
-            <key code="5" output="𞓞"/>
+            <key code="3" output=""/>
+            <key code="4" output="𞓞"/>
+            <key code="5" output="𞓦"/>
             <key code="6" output="𞓫"/>
             <key code="7" output="𞓭"/>
             <key code="8" output="𞓠"/>
@@ -71,10 +71,10 @@
             <key code="34" output="𞓚"/>
             <key code="35" output="𞓑"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output=""/>
-            <key code="38" output="𞓢"/>
+            <key code="37" output="𞓒"/>
+            <key code="38" output="𞓖"/>
             <key code="39" output=""/>
-            <key code="40" output="𞓒"/>
+            <key code="40" output="𞓢"/>
             <key code="41" output=""/>
             <key code="42" output=""/>
             <key code="43" output=""/>
