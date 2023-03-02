@@ -14,11 +14,12 @@ However, we can create text using simple text editing. As newer versions of oper
 
 ### A. Windows
 
-1. Download the zip file with the installer from here: https://github.com/murasu/nag-mundari-keyboards/blob/main/Windows/nmundari.zip.
-2. Unzip the file and double click Setup.exe to install the keyboards.
-3. If needed, restart your computer.
-4. The Nag Mundari keyboard will show as Oriya US (NagMundari) keyboard. Select that and start typing.
-5. Note that you can't type Nag Mundari in all applications. This one works: https://www.babelstone.co.uk/Software/BabelPad.html.
+1. It is best to try this in Windows 10 or Windows 11. The font may not work in older versions of Windows.
+2. Download the zip file with the installer from here: https://github.com/murasu/nag-mundari-keyboards/blob/main/Windows/nmundari.zip.
+3. Unzip the file and double click Setup.exe to install the keyboards.
+4. If needed, restart your computer.
+5. The Nag Mundari keyboard will show as Oriya US (NagMundari) keyboard. Select that and start typing.
+6. Note that you can't type Nag Mundari in all applications. This one works: https://www.babelstone.co.uk/Software/BabelPad.html.
 
 ### B. macOS
 
