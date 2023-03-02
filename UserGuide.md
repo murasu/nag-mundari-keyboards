@@ -6,8 +6,9 @@ However, we can create text using simple text editing. As newer versions of oper
 
 ## Installing the font
 
-1. Get the fonts from the NotoSans Nag Mundari Project: https://notofonts.github.io/nag-mundari/ Download the regular and bold TTF files.
-2. Windows: Right click on the font files and select 'Install'. In macOS, open the files in Font Book and click install.
+1. Get the fonts from the NotoSans Nag Mundari Project: https://notofonts.github.io/nag-mundari/. 
+2. Download the regular and bold TTF files.
+3. Windows: Right click on the font files and select 'Install'. In macOS, open the files in Font Book and click install.
 
 ## Installing the keyboard
 
